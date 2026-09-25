@@ -1,4 +1,4 @@
-<head>Professional</head>
+<h2>Professional</h2>
 
 ![workplaces](workplaces.jpg)
 
