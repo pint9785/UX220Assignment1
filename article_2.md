@@ -1,4 +1,4 @@
-<head>Financial</head>
+<h2>Financial</h2>
 
 ![apt](apt.jpg)
 - Living by myself in the city.
