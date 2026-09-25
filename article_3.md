@@ -1,4 +1,4 @@
-<head>Recreational</head>
+<h2>Recreational</h2>
 
 ![drums](3215012438_09ffe2157d_w.jpg)
 - I still to this day go on an annual trip with my closest friends. We have traveled to 15 countries together and more to come. 
