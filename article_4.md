@@ -1,5 +1,5 @@
 <head>
-…Professional
+Professional
 </head>
 
 ![smileyface]()
