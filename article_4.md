@@ -1,6 +1,4 @@
-<head>
-Professional
-</head>
+<head>Professional</head>
 
 ![smileyface]()
 
