@@ -1,4 +1,5 @@
-Financial
+<head>Financial</head>
+
 ![smileyface]()
 - Living by myself in the city.
 - Working a job I love that also allows me to live the life I want to live.
