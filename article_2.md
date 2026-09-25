@@ -1,6 +1,6 @@
 <head>Financial</head>
 
-![apt](Untitled design.jpg)
+![apt](apt.jpg)
 - Living by myself in the city.
 - Working a job I love that also allows me to live the life I want to live.
 - Per usual, I am still very responsible with my money and how I save and invest it.
